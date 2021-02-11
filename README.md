@@ -67,10 +67,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | Completed       | [Screenshot](./evidence/Algebra_I.pdf)         |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Completed       | [Screenshot](./evidence/Algebra_II.pdf)         |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Completed       | [Screenshot](./evidence/Trigonometry.pdf)         |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   | Completed       | [Screenshot](./evidence/Precalculus.pdf)         |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | Completed | [Screenshot](./evidence/Algebra_I.pdf) |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Completed | [Screenshot](./evidence/Algebra_II.pdf) |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Completed | [Screenshot](./evidence/Trigonometry.pdf) |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   | Completed | [Screenshot](./evidence/Precalculus.pdf) |
 
 ### Tier X - Programming Prep Prep
 
@@ -78,11 +78,11 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | Completed           | [Screenshot](./evidence/Intro_to_JS.pdf)             |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             | Completed           | [Screenshot](./evidence/Intro_to_HTML_CSS.pdf)             |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            | Completed           | [Screenshot](./evidence/Intro_to_SQL.pdf)             |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Partial           | [Screenshot](./evidence/Advanced_JS.pdf)             |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Partial           | Ongoing             |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | Completed | [Screenshot](./evidence/Intro_to_JS.pdf)             |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            | Completed | [Screenshot](./evidence/Intro_to_HTML_CSS.pdf)             |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            | Completed | [Screenshot](./evidence/Intro_to_SQL.pdf)             |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Partial | [Screenshot](./evidence/Advanced_JS.pdf)             |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Partial | Ongoing             |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
@@ -92,9 +92,9 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
+| Welcome To Coding                                                                                                                                                     | Completed |              |
+| Full Stack Online - Intro to Programming                                                                                                                              | Completed |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  | Ongoing |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
@@ -117,7 +117,7 @@ If you didn't do App Academy Open in Tier 0, please consider doing it as your Sp
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               | Ongoing |              |
 | [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
 | Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
